@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://ylyang.github.com/ylyang/atom.xml" rel="self"/>
-  <link href="http://ylyang.github.com/ylyang/"/>
-  <updated>2012-06-13T22:03:29+08:00</updated>
-  <id>http://ylyang.github.com/ylyang/</id>
+  <title><![CDATA[Yiling Yang]]></title>
+  <link href="http://ylyang.github.com/atom.xml" rel="self"/>
+  <link href="http://ylyang.github.com/"/>
+  <updated>2012-06-13T23:00:21+08:00</updated>
+  <id>http://ylyang.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Yiling Yang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[new-post]]></title>
+    <link href="http://ylyang.github.com/blog/2012/06/13/new-post/"/>
+    <updated>2012-06-13T22:20:00+08:00</updated>
+    <id>http://ylyang.github.com/blog/2012/06/13/new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>

@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://ylyang.github.com/ylyang
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://ylyang.github.com
+title: Yiling Yang
+subtitle: Thinking
+author: Yiling Yang
 simple_search: http://google.com/search
 description:
 
