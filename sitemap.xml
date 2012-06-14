@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://ylyang.github.com/blog/2012/06/13/new-post/</loc>
+        <lastmod>2012-06-13T22:20:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ylyang.github.com/blog/archives/</loc>
+        <lastmod>2012-06-13T22:20:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ylyang.github.com/</loc>
+        <lastmod>2012-06-13T22:20:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ylyang.github.com/test/</loc>
+        <lastmod>2012-06-13T22:21:09+08:00</lastmod>
+    </url>
+</urlset>
