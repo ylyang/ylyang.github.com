@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Yiling Yang]]></title>
+  <link href="http://ylyang.github.com/atom.xml" rel="self"/>
+  <link href="http://ylyang.github.com/"/>
+  <updated>2012-06-14T10:57:44+08:00</updated>
+  <id>http://ylyang.github.com/</id>
+  <author>
+    <name><![CDATA[Yiling Yang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[new-post]]></title>
+    <link href="http://ylyang.github.com/blog/2012/06/13/new-post/"/>
+    <updated>2012-06-13T22:20:00+08:00</updated>
+    <id>http://ylyang.github.com/blog/2012/06/13/new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
