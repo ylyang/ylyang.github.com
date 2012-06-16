@@ -4,7 +4,7 @@
   <title><![CDATA[Yiling Yang]]></title>
   <link href="http://ylyang.github.com/atom.xml" rel="self"/>
   <link href="http://ylyang.github.com/"/>
-  <updated>2012-06-16T10:46:49+08:00</updated>
+  <updated>2012-06-16T12:10:45+08:00</updated>
   <id>http://ylyang.github.com/</id>
   <author>
     <name><![CDATA[Yiling Yang]]></name>
@@ -18,7 +18,12 @@
     <link href="http://ylyang.github.com/blog/2012/06/13/new-post/"/>
     <updated>2012-06-13T22:20:00+08:00</updated>
     <id>http://ylyang.github.com/blog/2012/06/13/new-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Only test</p>
+
+<!-- more -->
+
+
+<p>Only test</p>
 ]]></content>
   </entry>
   
