@@ -1,0 +1,14 @@
+---
+layout: page
+title: Sorry, the page doesn't exist
+footer: false
+---
+
+<h3>看看下面有没有你要找的东东？</h3>
+<dvi id="blog-archives">
+	{% for post in site.posts limit: 10 %}
+<article>
+		{% include archive_post.html %}
+</article>
+	{% endfor %}
+</dvi>
