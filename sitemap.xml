@@ -2,11 +2,11 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://ylyang.github.com/blog/2012/06/27/transformation-mars/</loc>
-        <lastmod>2012-10-12T13:40:35+08:00</lastmod>
+        <lastmod>2012-10-12T13:46:04+08:00</lastmod>
     </url>
     <url>
         <loc>http://ylyang.github.com/blog/2012/06/27/transformation-mars.markdown/</loc>
-        <lastmod>2012-06-29T16:59:59+08:00</lastmod>
+        <lastmod>2012-10-12T13:40:35+08:00</lastmod>
     </url>
     <url>
         <loc>http://ylyang.github.com/404.html</loc>
@@ -14,7 +14,7 @@
     </url>
     <url>
         <loc>http://ylyang.github.com/blog/archives/</loc>
-        <lastmod>2012-10-12T13:40:35+08:00</lastmod>
+        <lastmod>2012-10-12T13:46:04+08:00</lastmod>
     </url>
     <url>
         <loc>http://ylyang.github.com/blog/tags/</loc>
@@ -22,6 +22,6 @@
     </url>
     <url>
         <loc>http://ylyang.github.com/</loc>
-        <lastmod>2012-10-12T13:40:35+08:00</lastmod>
+        <lastmod>2012-10-12T13:46:04+08:00</lastmod>
     </url>
 </urlset>
