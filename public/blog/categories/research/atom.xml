@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Research | Yiling Yang]]></title>
+  <link href="http://ylyang.github.com/blog/categories/research/atom.xml" rel="self"/>
+  <link href="http://ylyang.github.com/"/>
+  <updated>2013-01-06T16:52:34+08:00</updated>
+  <id>http://ylyang.github.com/</id>
+  <author>
+    <name><![CDATA[Yiling Yang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Achieving Situation-awareness by Predicate Detection]]></title>
+    <link href="http://ylyang.github.com/blog/2013/01/06/achieving-situation-awareness-by-predicate-detection/"/>
+    <updated>2013-01-06T16:48:00+08:00</updated>
+    <id>http://ylyang.github.com/blog/2013/01/06/achieving-situation-awareness-by-predicate-detection</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
